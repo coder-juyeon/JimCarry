@@ -89,7 +89,7 @@
 
 
 ### ERD
-
+![jimcarry_erd](https://user-images.githubusercontent.com/122768623/235347527-31c6f09b-fc3b-4317-8b5c-dcab609d0bf3.png)
 
 
 ### 프로젝트에서 느낀점
