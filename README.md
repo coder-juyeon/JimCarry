@@ -67,7 +67,7 @@
 
 
 ## :pushpin: 맡은 역할
-### 프론트 진행 - <a href=“https://github.com/coder-juyeon/JimCarry/wiki/front” target="_blank">상세보기 - WIKI 이동</a>
+### 프론트 진행 - <a href="https://github.com/coder-juyeon/JimCarry/wiki/front">상세보기</a>
 - 창고등록페이지
 - FAQ
 - 문의하기
