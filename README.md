@@ -75,7 +75,7 @@
 - 주소 API 연동
 
 
-### 백엔드 진행 - <a href=“” >상세보기 - WIKI 이동</a>
+### 백엔드 진행 - <a href="https://github.com/coder-juyeon/JimCarry/wiki/backend">상세보기 - WIKI </a>
 #### 검색페이지
  - 지역별 검색
  - 규모별 검색
