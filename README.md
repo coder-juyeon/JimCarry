@@ -89,7 +89,7 @@
 
 
 ### ERD
-![jimcarry_erd](https://user-images.githubusercontent.com/122768623/235347527-31c6f09b-fc3b-4317-8b5c-dcab609d0bf3.png)
+![짐캐리 포토폴리오 drawio](https://user-images.githubusercontent.com/122762287/233322002-5be1e3da-90ba-4e2a-ab88-38ad95b48aaf.png)
 
 
 ### 프로젝트에서 느낀점
