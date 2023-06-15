@@ -44,8 +44,6 @@
 - java
 - jQuery
 - Thymeleaf
-- QueryDSL
-- JPA
 - Spring Boot
 - HTML, CSS, JS
 - MySQL
